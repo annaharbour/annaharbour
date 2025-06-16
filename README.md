@@ -8,8 +8,5 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,html,css,mongodb,react,redux,git,github,postman,vscode)](https://skillicons.dev)
-
-## Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=mysql,java,python,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm,html,css,mongodb,react,redux,git,github,postman,vscode,java,angular,python,idea,mysql)](https://skillicons.dev)
 
